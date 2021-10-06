@@ -1,3 +1,9 @@
+#MyData
+PokeData/
+PokeGAN_Outputs_CNN/
+PokeGAN_Outputs_Dense/
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
